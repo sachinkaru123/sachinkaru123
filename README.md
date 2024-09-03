@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a Self-learner and Freelancer. like to help others with my best.  have better knowledge of Laravel, Node, WordPress, and Springboot applications. 
-
+I am a passionate full-stack developer with over 2+ years of experience working with Laravel and 1+ years of experience with React. My expertise extends to building dynamic and scalable applications using Next.js and Express.js. As a self-learner, I continuously explore new technologies and best practices to enhance my skills. While I thrive in the technical world, I'm also an introvert who enjoys the deep focus and creativity that coding brings
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sachin-Thennakoon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-karunarathna) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Sachin-Karunarathna) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codeWolfSL) 
