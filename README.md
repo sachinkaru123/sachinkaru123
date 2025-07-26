@@ -105,10 +105,7 @@ const sachin = {
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkaru123&layout=compact&theme=tokyonight&hide_border=false"/>
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sachinkaru123&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -168,4 +165,12 @@ const sachin = {
 <div align="center">
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   <p>✨ Crafting digital experiences one line of code at a time ✨</p>
+</div>
+
+<!-- anime girl -->
+<div align="center">
+  <img src="https://i.imgur.com/cjcYrqI.gif" 
+    alt="Animated GIF" 
+    class="animated-gif"/>
+            
 </div>
