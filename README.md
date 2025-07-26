@@ -1,17 +1,19 @@
 <div align="center">
-
 <!-- Animated Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Sachin%20Karunarathna&fontSize=90&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Software Engineer%20%7C%20Laravel%20Expert%20%7C%20React%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling" />
-
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Sachin%20Karunarathna&fontSize=80&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%7C%20Laravel%20Expert%20%7C%20React%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling" />
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;Building+Tomorrow's+Web+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+a+Full-Stack+Software-Engineer;Building+Tomorrow's+Web+Today" alt="Typing SVG" />
 </div>
-
 <br/>
 
+<!-- Typing Animation -->
+<br/>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
