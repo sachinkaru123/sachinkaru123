@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Sachin%20Karunarathna&fontSize=80&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%7C%20Laravel%20Expert%20%7C%20React%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling" />
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Sachin%20Karunarathna&fontSize=80&fontAlign=50&fontAlignY=40&desc=Cloud%20Solution%20Architect%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling" />
 </div>
 
 <!-- Animated Divider -->
@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+a+Full-Stack+Software-Engineer;Building+Tomorrow's+Web+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;Looking+for+a+cloud+solution%3F;Building+Tomorrow%27s+Web+Today" alt="Typing SVG" />
 </div>
 <br/>
 
@@ -70,6 +70,8 @@ const sachin = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
