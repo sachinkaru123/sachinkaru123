@@ -115,7 +115,7 @@ const sachin = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinkaru123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<div class="  tmp-pt-3 tmp-mt-3 d-none d-md-block"><div class="d-flex flex-wrap"><a href="/sachinkaru123?achievement=pull-shark&amp;tab=achievements" class="position-relative"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" data-hovercard-type="achievement" data-hovercard-url="/users/sachinkaru123/achievements/pull-shark/detail?hovercard=1" width="64" alt="Achievement: Pull Shark" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp"><span data-view-component="true" class="Label achievement-tier-label achievement-tier-label--silver text-small text-bold color-shadow-medium px-2 tmp-px-2 py-0 tmp-py-0 mb-1 tmp-mb-1 position-absolute right-0 bottom-0">x3</span></a><a href="/sachinkaru123?achievement=yolo&amp;tab=achievements" class="position-relative"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" data-hovercard-type="achievement" data-hovercard-url="/users/sachinkaru123/achievements/yolo/detail?hovercard=1" width="64" alt="Achievement: YOLO" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp"></a><a href="/sachinkaru123?achievement=quickdraw&amp;tab=achievements" class="position-relative"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" data-hovercard-type="achievement" data-hovercard-url="/users/sachinkaru123/achievements/quickdraw/detail?hovercard=1" width="64" alt="Achievement: Quickdraw" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp"></a></div></div>
 </div>
 
 <!-- Animated Divider -->
@@ -125,10 +125,17 @@ const sachin = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachinkaru123&repo=C-Project--LaundryManagementSystem&theme=tokyonight&hide_border=false)](https://github.com/sachinkaru123/C-Project--LaundryManagementSystem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachinkaru123&repo=chat-app-express-socketIO&theme=tokyonight&hide_border=false)](https://github.com/sachinkaru123/chat-app-express-socketIO)
+## 🌟 Featured Projects
 
+- 🔗 [LAN File Share (GoLang)](https://github.com/sachinkaru123/LAN-File-Share---GoLang)
+- 🔗 [Work Tracker](https://github.com/sachinkaru123/worktracker)
+- 🔗 [Directory Tree Scanner](https://github.com/sachinkaru123/directory-tree-scanner)
 
+### ⚡ Inventory System (Real-time WebSocket + Microservices)
+
+- 🔗 [Laravel API Backend](https://github.com/sachinkaru123/inventory-with-websocket-laravel-api)
+- 🔗 [Express + Redis WebSocket Server](https://github.com/sachinkaru123/inventory-with-websocket-express-redis)
+- 🔗 [Next.js Frontend](https://github.com/sachinkaru123/inventory-with-websocket-next-fe)
 
 </div>
 
